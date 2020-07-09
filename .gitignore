@@ -1,0 +1,23 @@
+/bower_components/
+/node_modules/
+/.pulp-cache/
+/output/
+/generated-docs/
+/.psc-package/
+/.psc*
+/.purs*
+/.psa*
+/.spago
+/.venv
+/.vscode
+
+purescript_aff
+
+# purescript-python
+.pure-py/
+
+# purescript-python
+.pure-py/
+
+# purescript-python
+.pure-py/
